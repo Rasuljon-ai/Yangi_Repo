@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Data / ML
+*.csv
+*.pkl
+*.h5
+
+# IDE
+.vscode/
+.idea/
